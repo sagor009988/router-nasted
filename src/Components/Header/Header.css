@@ -1,0 +1,10 @@
+.header {
+    margin-right: 10px;
+}
+nav a.active{
+    text-decoration: underline;
+    border: 2 px solid red;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: aqua;
+}
